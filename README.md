@@ -27,3 +27,5 @@ Stanis, practica
 - Crear i afegir un element
 
 - Eliminar un element del DOM
+
+Comprovacio del readme en la branca feature
