@@ -35,7 +35,7 @@
     //7 
     document.querySelector("#boto-afegir").addEventListener("click", function () {
     let nouItem = document.createElement("li");
-    nouItem.textContent = "Hola Edu";
+    nouItem.textContent = "Edu ficam un 10";
     document.querySelector("#llista-compra").appendChild(nouItem);
     });
 
