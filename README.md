@@ -1,29 +1,33 @@
 # 0376RA4PR1
 
+> **Stanis**, practica sobre DOM — Document Object Model amb JavaScript.
 
-Stanis, practica
+---
 
-📁 Estructura del projecte 0376RA4PR1/
+## 📖 Descripció
 
-├── index.html     → Estructura HTML amb els elements dels exercicis
-├── style.css      → Estils visuals (caixes, classes, dark-mode)
-├── script.js      → Lògica JavaScript amb els 8 exercicis
-└── README.md      → Documentació del projecte
+Aquest script conté una sèrie d'exercicis pràctics per aprendre a manipular el **DOM** que el EDU ens ha demanat fer
 
-🧩 Llista d'exercicis
+---
 
-- Canviar el color d'un títol
+## 🧩 Llista d'exercicis
 
-- Modificar el text d'un paràgraf
+1. [Canviar el color d'un títol]
+2. [Modificar el text d'un paràgraf]
+3. [Canviar el `src` d'una imatge]
+4. [Event click per canviar fons]
+5. [Toggle de classe CSS]
+6. [Mostrar un alert]
+7. [Crear i afegir un element]
+8. [Eliminar un element del DOM]
 
-- Canviar el src d'una imatge
 
-- Event click per canviar fons
+## 🔧 Tecnologies
 
-- Toggle de classe CSS
+El nostre cap per a solucionar els reptes
 
-- Mostrar un alert
+---
 
-- Crear i afegir un element
+## 📂 Estat del projecte
 
-- Eliminar un element del DOM
+Completat
