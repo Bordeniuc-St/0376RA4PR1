@@ -1,10 +1,10 @@
 # 0376RA4PR1
 
 
-Pràctica de manipulació del DOM amb JavaScript pur. Cada exercici treballa una tècnica diferent per interactuar amb elements HTML des de script.js.
+Stanis, practica
 
-📁 Estructura del projecte
-0376RA4PR1/
+📁 Estructura del projecte 0376RA4PR1/
+
 ├── index.html     → Estructura HTML amb els elements dels exercicis
 ├── style.css      → Estils visuals (caixes, classes, dark-mode)
 ├── script.js      → Lògica JavaScript amb els 8 exercicis
@@ -12,18 +12,18 @@ Pràctica de manipulació del DOM amb JavaScript pur. Cada exercici treballa una
 
 🧩 Llista d'exercicis
 
-Canviar el color d'un títol
+- Canviar el color d'un títol
 
-Modificar el text d'un paràgraf
+- Modificar el text d'un paràgraf
 
-Canviar el src d'una imatge
+- Canviar el src d'una imatge
 
-Event click per canviar fons
+- Event click per canviar fons
 
-Toggle de classe CSS
+- Toggle de classe CSS
 
-Mostrar un alert
+- Mostrar un alert
 
-Crear i afegir un element
+- Crear i afegir un element
 
-Eliminar un element del DOM
+- Eliminar un element del DOM
